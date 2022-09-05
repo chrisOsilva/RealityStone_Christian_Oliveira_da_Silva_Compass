@@ -1,6 +1,0 @@
-passos para adicionar arquivo no git
-
-1- salvar arquivo
-2- no git bash colocar o comando = git add "nome do arquivo"
-3- git commit -m "mensagem"
-4- git push 
